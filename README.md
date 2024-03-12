@@ -5,10 +5,12 @@
 - CSS
 - Figma
 
+  ![screen](https://github.com/marlonfrnds/crie-seu-evento/assets/115473116/a37f0c30-20ee-4c0f-8d43-9a5d07672e9d)
 
-## Layout do projeto
+  ## Layout do projeto
 <table>
   <tr>
-    ![screen](https://github.com/marlonfrnds/crie-seu-evento/assets/115473116/c866f58d-cc01-4d88-9689-7cf096823fc2)
-  </tr>   
+    <td><img src=".images/crie-seu-evento.png"></td>
+  </tr>
 </table>
+
