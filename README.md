@@ -6,6 +6,3 @@
 - HTML
 - CSS
 - Figma
-- .
-
-
